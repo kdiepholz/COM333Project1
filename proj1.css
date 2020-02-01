@@ -46,3 +46,29 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+.headshot{
+  align: left;
+  height: 326px;
+  width: 233px;
+  border: 1px;
+  float: left;
+  padding-right: 20px;
+  padding-top: 12px;
+}
+h1{
+	font-size: 300%;
+	padding: 8px 0;
+}
+h2{
+	font-size: 300%;
+	padding: 6px;
+}
+p{
+	padding: 6px 0;
+	font-size: 100%;
+	hyphens: auto;
+}
+.biography{
+	height: 100%;
+	margin: auto;
+}
