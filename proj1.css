@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
-    background-color: rgba(0, 0, 255, 1.0);
+    background-color: rgba(0, 0, 255, 0.5);
 }
 ol, ul {
 	list-style: none;
