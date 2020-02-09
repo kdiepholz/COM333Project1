@@ -49,23 +49,23 @@ table {
 .headshot{
   align: center;
   height: 300px;
-  width: 450px;
+  width: 400px;
   border: 1px;
   float: left;
   padding-right: 20px;
   padding-top: 12px;
 }
 h1{
-	font-size: 100%;
+	font-size: 200%;
 	padding: 8px 0;
 }
 h2{
-	font-size: 100%;
+	font-size: 150%;
 	padding: 6px;
 }
 p{
 	padding: 6px 0;
-	font-size: 75%;
+	font-size: 100%;
 	hyphens: auto;
 }
 .biography{
