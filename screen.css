@@ -29,6 +29,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
+    color: white;
 	line-height: 1;
     background-color: purple;
 }
@@ -49,22 +50,29 @@ table {
 }
 .headshot{
     display: block;
-    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
 }
 h1{
+    color: white;
+    text-align: center;
 	font-size: 200%;
 	padding: 8px 0;
 }
 h2{
+    color: white;
 	font-size: 150%;
 	padding: 6px;
 }
 p{
+    color: white;
 	padding: 6px 0;
 	font-size: 100%;
 	hyphens: auto;
 }
 .biography{
+    color: white;
 	height: 100%;
 	margin: auto;
 }
